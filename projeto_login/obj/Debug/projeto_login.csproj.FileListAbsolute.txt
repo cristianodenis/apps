@@ -1,0 +1,12 @@
+C:\Users\crist\source\repos\projeto_login\projeto_login\bin\Debug\projeto_login.exe.config
+C:\Users\crist\source\repos\projeto_login\projeto_login\bin\Debug\projeto_login.exe
+C:\Users\crist\source\repos\projeto_login\projeto_login\bin\Debug\projeto_login.pdb
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.csprojAssemblyReference.cache
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.Apresentacao.BemVindo.resources
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.Apresentacao.CadastreSe.resources
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.Form1.resources
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.Properties.Resources.resources
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.exe
+C:\Users\crist\source\repos\projeto_login\projeto_login\obj\Debug\projeto_login.pdb
